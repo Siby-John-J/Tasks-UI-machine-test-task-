@@ -23,3 +23,4 @@ To start the development server, run the following command
 ```bash
   npm run dev
 ```
+This will run the app in development mode, and you can view it in the browser at http://localhost:5173
