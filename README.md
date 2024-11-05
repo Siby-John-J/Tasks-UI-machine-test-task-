@@ -32,9 +32,10 @@ This will run the app in development mode, and you can view it in the browser at
 │   └── index.html
 ├── src/                     # Source code
 │   ├── components/          # React components
+│   ├── context              # Context Api State Management
 │   ├── assets/              # Images, icons, styles, etc.
 │   ├── App.js               # Main app component
-│   ├── index.js             # Main entry point
+│   ├── index.jsx            # Main entry point
 ├── package.json             # Project dependencies and scripts
 ├── .gitignore               # Files to ignore in Git
 ├── README.md                # This file
