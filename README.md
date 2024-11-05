@@ -24,3 +24,19 @@ To start the development server, run the following command
   npm run dev
 ```
 This will run the app in development mode, and you can view it in the browser at http://localhost:5173
+
+# Folder Structure
+```bash
+  Tasks-UI-machine-test-task/
+├── public/                  # Public assets (e.g., index.html, images)
+│   └── index.html
+├── src/                     # Source code
+│   ├── components/          # React components
+│   ├── assets/              # Images, icons, styles, etc.
+│   ├── App.js               # Main app component
+│   ├── index.js             # Main entry point
+├── package.json             # Project dependencies and scripts
+├── .gitignore               # Files to ignore in Git
+├── README.md                # This file
+```
+
